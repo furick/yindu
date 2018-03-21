@@ -1,0 +1,39 @@
+2017-11-28 11:21:25 - PHP Notice:  Undefined index: banner_id in /home/yindupharmacy/public_html/admin/controller/module/tm_slideshow.php on line 111
+2017-11-28 13:07:39 - PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/yindupharmacy/public_html/system/library/image.php on line 34
+2017-11-28 13:07:39 - PHP Warning:  imagecreatefromjpeg(): '/home/yindupharmacy/public_html/image/catalog/l1.jpg' is not a valid JPEG file in /home/yindupharmacy/public_html/system/library/image.php on line 34
+2017-11-28 13:07:39 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/yindupharmacy/public_html/system/library/image.php on line 99
+2017-11-28 13:07:39 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/yindupharmacy/public_html/system/library/image.php on line 100
+2017-11-28 13:07:55 - PHP Warning:  imagecreatefrompng(): gd-png:  fatal libpng error: Read Error: truncated data in /home/yindupharmacy/public_html/system/library/image.php on line 32
+2017-11-28 13:07:55 - PHP Warning:  imagecreatefrompng(): gd-png error: setjmp returns error condition in /home/yindupharmacy/public_html/system/library/image.php on line 32
+2017-11-28 13:07:55 - PHP Warning:  imagecreatefrompng(): '/home/yindupharmacy/public_html/image/catalog/Motorola-Global1.png' is not a valid PNG file in /home/yindupharmacy/public_html/system/library/image.php on line 32
+2017-11-28 13:07:55 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/yindupharmacy/public_html/system/library/image.php on line 99
+2017-11-28 13:07:55 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/yindupharmacy/public_html/system/library/image.php on line 100
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:01 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:17 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:42:19 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2017-11-29 8:46:34 - PHP Notice:  Undefined index: description in /home/yindupharmacy/public_html/system/modification/admin/controller/design/banner.php on line 388
+2018-03-03 0:40:00 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /home/yindupharmacy/public_html/system/modification/system/engine/action.php on line 17
+2018-03-03 0:40:00 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /home/yindupharmacy/public_html/system/modification/system/engine/action.php on line 27
+2018-03-09 3:31:40 - PHP Notice:  Undefined index: quantity in /home/yindupharmacy/public_html/catalog/controller/checkout/cart.php on line 336
+2018-03-09 3:31:42 - PHP Notice:  Undefined index: quantity in /home/yindupharmacy/public_html/catalog/controller/checkout/cart.php on line 336
